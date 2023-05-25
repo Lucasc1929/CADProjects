@@ -1,0 +1,7658 @@
+%!PS-Adobe-3.0
+%cupsJobTicket: media=A4
+%cupsJobTicket: AP_D_InputSlot=
+%%Creator: Wine PostScript Driver
+%%Title: Projeto3Vent2.cad
+%%BoundingBox: 8 8 586 833
+%%Pages: (atend)
+%%Orientation: Landscape
+%%EndComments
+%%BeginProlog
+/tmpmtrx matrix def
+/hatch {
+  pathbbox
+  /b exch def /r exch def /t exch def /l exch def /gap 32 def
+  l cvi gap idiv gap mul
+  gap
+  r cvi gap idiv gap mul
+  {t moveto 0 b t sub rlineto}
+  for
+} bind def
+/B {pop pop pop pop} def
+/N {newpath} def
+/havetype42gdir {version cvi 2015 ge} bind def
+%%EndProlog
+%%BeginSetup
+mark {
+%%BeginFeature: *PageSize A4
+<</PageSize[595.275590551181 841.889763779528]>>setpagedevice
+%%EndFeature
+} stopped cleartomark
+%%EndSetup
+%%Page: 1 1
+%%BeginPageSetup
+/pgsave save def
+72 600 div 72 600 div scale
+69 69 translate
+1 -1 scale
+-90 rotate
+%%EndPageSetup
+0.00 0.50 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+100 520 moveto
+6820 520 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+6820 520 moveto
+6820 4780 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+6820 4780 moveto
+100 4780 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+100 4780 moveto
+100 520 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+160 580 moveto
+6760 580 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+6760 580 moveto
+6760 4720 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+6760 4720 moveto
+160 4720 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+160 4720 moveto
+160 580 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+920 520 moveto
+920 580 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+25 dict begin
+ /FontName /LiberationSans def
+ /Encoding 256 array 0 1 255{1 index exch /.notdef put} for def
+ /PaintType 0 def
+ /FontMatrix [1 2048 div 0 0 1 2048 div 0 0] def
+ /FontBBox [-1114 -621 2666 2007] def
+ /FontType 1 def
+ /Private 7 dict begin
+  /RD {string currentfile exch readhexstring pop} def
+  /ND {def} def
+  /NP {put} def
+  /MinFeature {16 16} def
+  /BlueValues [] def
+  /password 5839 def
+  /lenIV -1 def
+ currentdict end def
+ currentdict dup /Private get begin
+  /CharStrings 256 dict begin
+   /.notdef 4 RD 8b8b0d0e ND
+  currentdict end put
+ end
+currentdict end dup /FontName get exch definefont pop
+/LiberationSans findfont
+[53 0 0 -53 0 0]
+makefont setfont
+520 568 moveto
+%%glyph 0024
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/A 94 RD
+8fff000005560dff0000048b8b15fb35
+f83005fd168b05fb36fc3005fb5a8b05
+f8d3ff0000058105f76d8b05f8caffff
+fffa7f0509fd39ff000004f115826f05
+7a5473446a3408fb48fc6305f8a38b05
+fb49f8650578b979bf78c508090e
+ND
+end end
+/A glyphshow
+0.00 0.50 0.00 setrgbcolor
+920 4720 moveto
+920 4780 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+520 4768 moveto
+/A glyphshow
+0.00 0.50 0.00 setrgbcolor
+1740 520 moveto
+1740 580 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+1340 568 moveto
+%%glyph 0025
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/B 175 RD
+f73cff000005560dfad6f821158bfb11
+5d293046083045fb1368fb378b08fcd0
+8b058bff0000058105f8948b05f7df8b
+f739fb068bfb78088b3874455c52085c
+524965367808f7047ee165c84e08c84d
+a93d8b2d0809fba6f91b158bd771c157
+ac0857ac409b288b08fbd58b058bfc52
+05f7d58b05f18bd79ebeb208bdb1a4c6
+8bda0809dcfd0c158bf73afb09defb7d
+8b08fbf88b058bfc9005f8078b05f709
+8be0a1c0b608c0b6a6cc8be108090e
+ND
+end end
+/B glyphshow
+0.00 0.50 0.00 setrgbcolor
+1740 4720 moveto
+1740 4780 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+1340 4768 moveto
+/B glyphshow
+0.00 0.50 0.00 setrgbcolor
+2560 520 moveto
+2560 580 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+2160 568 moveto
+%%glyph 0026
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/C 168 RD
+f3ff000005c70df944ff000004fa15fb
+308bfb0d59342708342660fb1d8bfb43
+088bfb41b8fb1ee62208e522f70e56f7
+2e8b08f7598bf729edeef75708f7303d
+0551fb0d3a2e224c08224cfb0e6cfb1f
+8a08fb228cfb0fa824c60823c63cdf55
+f7020854f70170f7168bf72a088bf775
+c8f744f70df71308f70df713f73ccbf7
+6b8b08f72a8bf7116ef05008f050d534
+bafb0708fb494f056add57ca43b60842
+b635a1288b08090e
+ND
+end end
+/C glyphshow
+0.00 0.50 0.00 setrgbcolor
+2560 4720 moveto
+2560 4780 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+2160 4768 moveto
+/C glyphshow
+0.00 0.50 0.00 setrgbcolor
+3380 520 moveto
+3380 580 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+2980 568 moveto
+%%glyph 0027
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/D 139 RD
+f73cff000005c70dff000004bdf96315
+8bfb256ffb1352fb010852fb013b3723
+51082351fb0c6efb1c8b08fca38b058b
+ff0000058105f8668b05f7838bf74c4f
+f716fb0b08f715fb0cccfb3e8bfb7108
+09fb548b158bf7435bf7192ce7082be6
+fb1fb9fb498b08fba38b058bfee305f7
+ce8b05f28be6a2dab808d9b8c7cdb5e0
+08b5e0a0f08bf70808090e
+ND
+end end
+/D glyphshow
+0.00 0.50 0.00 setrgbcolor
+3380 4720 moveto
+3380 4780 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+2980 4768 moveto
+/D glyphshow
+0.00 0.50 0.00 setrgbcolor
+4200 520 moveto
+4200 580 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+3800 568 moveto
+%%glyph 0028
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/E 60 RD
+f73cff000005560d8b8b158bff000005
+8105fac18b058bfb3005fe028b058bfc
+5805f9c68b058bfb2e05fdc68b058bfc
+7f05fa2b8b058bfb3005090e
+ND
+end end
+/E glyphshow
+0.00 0.50 0.00 setrgbcolor
+4200 4720 moveto
+4200 4780 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+3800 4768 moveto
+/E glyphshow
+0.00 0.50 0.00 setrgbcolor
+5020 520 moveto
+5020 580 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+4620 568 moveto
+%%glyph 0029
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/F 57 RD
+f73cff000004e30df753ff000004e515
+8bfca005f9a68b058bfb3205fda68b05
+8bfccf05fb538b058bff0000058105fa
+7d8b058bfb3005090e
+ND
+end end
+/F glyphshow
+0.00 0.50 0.00 setrgbcolor
+5020 4720 moveto
+5020 4780 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+4620 4768 moveto
+/F glyphshow
+0.00 0.50 0.00 setrgbcolor
+5840 520 moveto
+5840 580 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+5440 568 moveto
+%%glyph 002a
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/G 185 RD
+f2ff000006390d8bf95b158bf779c8f7
+45f70ff71108f70ff711f740caf7728b
+08f7308bf71371ec5608ec56d637c0fb
+0808fb4a550563db54c545b00844b034
+9d228b08fb378bfb105a352908352860
+fb1e8bfb47088bfb46b9fb20e62408e6
+24f71357f7358b08e78be199dba708da
+a7ccb1bcbb088bf79205fc398b058bf7
+3405f8e98b058bfc7a05403f3050fb00
+6208fb0161fb0977fb138a08fb278cfb
+13a720c60820c63adf53f7030852f702
+6ff7168bf72908090e
+ND
+end end
+/G glyphshow
+0.00 0.50 0.00 setrgbcolor
+5840 4720 moveto
+5840 4780 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+5440 4768 moveto
+/G glyphshow
+0.00 0.50 0.00 setrgbcolor
+6260 568 moveto
+%%glyph 002b
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/H 64 RD
+f73cff000005c70dfa4d8b158bf92105
+fd8e8b058bfd2105fb538b058bff0000
+058105f7538b058bfce805f98e8b058b
+f8e805f7538b058bfffffffa7f05090e
+ND
+end end
+/H glyphshow
+0.00 0.50 0.00 setrgbcolor
+6260 4768 moveto
+/H glyphshow
+0.00 0.50 0.00 setrgbcolor
+100 1360 moveto
+160 1360 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+120 988 moveto
+%%glyph 0014
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/one 58 RD
+f730ff000004730d8b8b158bf72d05f7
+fb8b058bfad005fbd2fb77058bf73e05
+f7e1f77905f73a8b058bfffffffb1805
+f7eb8b058bfb2d05090e
+ND
+end end
+/one glyphshow
+0.00 0.50 0.00 setrgbcolor
+6760 1360 moveto
+6820 1360 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+6780 988 moveto
+/one glyphshow
+0.00 0.50 0.00 setrgbcolor
+100 2200 moveto
+160 2200 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+120 1828 moveto
+%%glyph 0015
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/two 168 RD
+f2ff000004730d8b8b158bf71305add9
+b5d0bcc708bcc6bec1c1bc08c1bbc1b8
+c0b408c0b4bab5b6b408b6b4adb7a6b8
+08a5b898bf8bc4088bd874c75eb6085e
+b64ca03a8b083e8b4c765a620859616e
+50824008fb4c9c0598f705bbe4dece08
+ddcef5acf7158b08f7228bf7016ad848
+08d748b12b8bfb0f088b547f55725508
+725565555a55085a552c37fb1ffb0508
+3e4c4e535e59085e586a5b775c08f973
+8b058bfb2d05090e
+ND
+end end
+/two glyphshow
+0.00 0.50 0.00 setrgbcolor
+6760 2200 moveto
+6820 2200 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+6780 1828 moveto
+/two glyphshow
+0.00 0.50 0.00 setrgbcolor
+100 3040 moveto
+160 3040 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+120 2668 moveto
+%%glyph 0016
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/three 210 RD
+d9ff000004730dfa5ff819158bfb1662
+263844083844fb0a68fb2d8a08fb238c
+fb05aa36cc0836cb58ea7bf71208f74e
+9c05a3fb3bf138f7498b08e68bd2a1bf
+b808beb8a5cd8be3088bd86ec750b608
+50b635a0fb038b08258b058bf73005ed
+8b05ee8bd7a1c2b608c1b6a6c68bd708
+8bd675c75fb7085eb649a1348b083c8b
+4b775a62085a626e52834108fb499905
+98f707bbe5decc08ddccf5abf7158b08
+f7218bf7026ada4a08d949b22f8bfb09
+088b317242595308585242652b77088b
+8705f480dd67c65008c650a8408b3108
+090e
+ND
+end end
+/three glyphshow
+0.00 0.50 0.00 setrgbcolor
+6760 3040 moveto
+6820 3040 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+6780 2668 moveto
+/three glyphshow
+0.00 0.50 0.00 setrgbcolor
+100 3880 moveto
+160 3880 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+120 3508 moveto
+%%glyph 0017
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/four 90 RD
+baff000004730df9d6f7d3158bfbd305
+fb3e8b058bf7d305fd2c8b058bf72005
+f919fa4a05f7518b058bfe4805f75a8b
+058bfb220509fc04fa0b158a8781797a
+6c087a6c7e75827e08fbfdfca8055541
+057b7705f8868b05090e
+ND
+end end
+/four glyphshow
+0.00 0.50 0.00 setrgbcolor
+6760 3880 moveto
+6820 3880 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+6780 3508 moveto
+/four glyphshow
+0.00 0.50 0.00 setrgbcolor
+120 4348 moveto
+%%glyph 0018
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/five 152 RD
+ddff000004730dfa5ff85f158bfb295f
+fb093336083236fb0e61fb318a08fb17
+8c21a73ac4083ac458de76f70108f74a
+a005b1fb1fed45f7318b08ec8bd6a8c2
+c608c2c5a6db8bf1088be470d254c208
+54c240a62e8b085a8b5e83617c08617c
+6171616608fb448b05baf98a05f9b58b
+058bfb2d05fd118b0570fc5305d9c7ec
+a9f7088b08f71f8bf70262de3a08dd3a
+b4218bfb1708090e
+ND
+end end
+/five glyphshow
+0.00 0.50 0.00 setrgbcolor
+6780 4348 moveto
+/five glyphshow
+0.00 0.50 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+160 4360 moveto
+6760 4360 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+160 4480 moveto
+1960 4480 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+160 4600 moveto
+1960 4600 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+5440 4540 moveto
+6760 4540 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+760 4360 moveto
+760 4720 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+1360 4360 moveto
+1360 4720 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+1960 4360 moveto
+1960 4720 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+2560 4360 moveto
+2560 4720 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+4000 4360 moveto
+4000 4720 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+5440 4360 moveto
+5440 4720 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+6160 4360 moveto
+6160 4540 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+160 4360 moveto
+160 4720 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+160 4720 moveto
+6760 4720 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+6760 4360 moveto
+6760 4720 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+/LiberationSans findfont
+[53 0 0 -53 0 0]
+makefont setfont
+820 4448 moveto
+/D glyphshow
+%%glyph 0044
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/a 245 RD
+e2ff000004730df7db7715fb018c3aa7
+54c40854c470da8bef088bf704b0e1d5
+c708d4c7f70babf7388f08f7878f058b
+c6058be378ca66b10866b1509e3b8b08
+3a8b517d6670086670755f844f08fb50
+9c05aaf757f724ecf7978b08f71c8bf1
+6cd04d08d04cad318bfb0a088bfc6605
+8b5692639970089970a67db28b089c8b
+9f8da190088bfb04055e815c865c8a08
+488c5b9c6dae086cae7ac187d608858b
+055d3856514e69084e69407a348a0809
+b4f71b15cd8bc69abea908bea9b4b4a9
+c008a8bf9ac18bc2088be405fb598705
+368a4b82607b085f7b6972746a08746a
+7f5f8b55088b509b5eab6b08aa6bb87b
+c68b08090e
+ND
+end end
+/a glyphshow
+%%glyph 0057
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/t 91 RD
+aaf8cd0df89f9315507c4e834d8a08fb
+248c43dc8bf737088bf96605fb118b05
+8bf71705f7188b05c0f78605f70c8b05
+8bfb8605f75c8b058bfb1705fb5c8b05
+8bfd3f058b5794679c76089c76a880b5
+8b08a38bae90b89408090e
+ND
+end end
+/t glyphshow
+%%glyph 0048
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/e 142 RD
+e2ff000004730df751f88b158bfb10a5
+2bbe4808be48d669ee8b08d98bca9bba
+aa08baaaaab39cbb08f7325e054afb3f
+fb2737fb798a08fb348cfb0eba38ea08
+37ea61f7228bf750088bf747b5f71ddf
+ea08deeaf70cbbf72f8b08f7d28bf733
+fb548bfc13088b730509fb4ef71e1581
+f7066ede5bc0085bbf46a5318b08348b
+466e58510858506f3b872508090e
+ND
+end end
+/e glyphshow
+0.00 0.50 0.00 setrgbcolor
+1420 4448 moveto
+%%glyph 0031
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/N 79 RD
+f73cff000005c70dfa268b15fd86ff00
+0004b005902a0590fb3b058bfe3c05fb
+3e8b058bff0000058105f7728b05f98e
+fffffffb480583f71787e98bc6088bfa
+3005f7408b058bfffffffa7f05090e
+ND
+end end
+/N glyphshow
+/a glyphshow
+%%glyph 0050
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/m 199 RD
+f71cff000006aa0df90c8b158bf94205
+8bf47dd36eb3086eb3589f408b083e8b
+4f6e5e50085e5075398b20088bfd0705
+fb478b058bf9e7058bf71289d887a708
+f73e8b058c888b828c7c088c7c8c7b8c
+78088c788c678c56088e8b05b2d8b7c0
+bda908bda9c89ad38b08dd8bcc7bbb6a
+08ba6aac579e44088e8b05b0d4b9bfc0
+ab08c0abcb9bd68b08f7018bdb6dbd50
+08bc50a4298bfb1b088bfd6505fb468b
+058bf942058bf47dd36eb3086eb3589f
+408b083c8b4e6e6051085f5075388b20
+088bfd0705090e
+ND
+end end
+/m glyphshow
+/e glyphshow
+0.00 0.50 0.00 setrgbcolor
+2020 4448 moveto
+%%glyph 0036
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/S 267 RD
+e8ff000005560dff0000049bf819158b
+fb1658262644082544fb2368fb4d8a08
+fbeb8cfb5bf70a54f78308f74db005a0
+36b94dd06408d063ea77f70b8b08f70f
+8beba0ceb608ceb5acc98bdd088bb981
+b076a80876a86da2659e08659e5e9a56
+9808569851984b9a08fb03a436a352a4
+0851a45da66aaa086aa971ae7ab40879
+b482b98bc0088bf70db9e8e8cc08e7cc
+f718acf7408b08f7348bf70e73e05a08
+e05ac637adfb0a08fb506a0576d664c1
+51ad0851ac3b9c248b08fb058b357850
+660850666d538b41088b609767a26f08
+a26eac73b67808b677e273f7156e08b6
+81b781b68108b680b47fb27d08b27cb0
+7aae7808ad78a973a46f08a46f9f6a9a
+65089965925e8b5808090e
+ND
+end end
+/S glyphshow
+%%glyph 004c
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/i 47 RD
+f71df85b0d8bff00000520158bf74005
+f7488b058bfb400509fb48fffffffae0
+158bface05f7488b058bfece05090e
+ND
+end end
+/i glyphshow
+%%glyph 004a
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/g 248 RD
+e1ff000004730df862fc3d15fb0a8c2d
+a245b90845ba5ecc77e008f749a50597
+5aa664b47008b470c07ece8a08f7478c
+e5f48bf765088bf74205898b0569465c
+575068085068457a3c8a08fb198c2ab6
+4de3084ce36cf71e8bf751088bf753ad
+f722cee608cee6f0b8f71d8b08d88bcd
+7ac46808c368b659aa4a088d8b058b9f
+8cae8ebc088ebc8da68e9008f73f8b05
+876789408bfb05088bfdcf058bfbc3fb
+2bfb2cfbc28a0809f7a6fa5a158be37f
+d773cb0873ca69bc60ad085fac599c54
+8b082f8b486a614808614876fb008bfb
+29088bfb289f21b24a08b24acf6bea8b
+08c48bbd9cb7ac08b7acadbba3ca08a3
+c997d58be108090e
+ND
+end end
+/g glyphshow
+%%glyph 0051
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/n 135 RD
+f71cff000004730df9458b158bf94205
+8bd284c37db2087db275a86c9c086c9c
+5e94508b08348b476d59500859507238
+8b22088bfd0705fb488b058bf9e7058b
+f71289d887a708f73e8b058c888b828c
+7c088c7c8c7b8c78088c788c678c5608
+8e8b05b4d6bbc0c2aa08c1aace9adc8b
+08f70b8be26ec25008c250a6298bfb1c
+088bfd6505090e
+ND
+end end
+/n glyphshow
+/a glyphshow
+/t glyphshow
+%%glyph 0058
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/u 136 RD
+f719ff000004730df749face158bfd42
+058b4492539964089964a16eaa7a08aa
+7ab882c68b08e28bcfa9bdc608bdc6a4
+de8bf4088bf90705f7488b058bfde705
+8bfb128d3e8f6f08fb3e8b058a8e8b94
+8a9a088a9a8b9c8a9e088a9e89ae8ac0
+08888b0562405b57556c08546c487c3a
+8a08fb0b8c35a854c60854c66fec8bf7
+1c088bf96505090e
+ND
+end end
+/u glyphshow
+%%glyph 0055
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/r 87 RD
+f71cf93e0d918b158bf9d2058bd789df
+87e708f73e8b0590fb0f8e428b72088f
+8b05a8e8accab0ad08b0adc09ccf8b08
+a38ba388a484088bfb390573926b8e63
+8b08408b526b644b08644a772f8bfb0c
+088bfcc805090e
+ND
+end end
+/r glyphshow
+/e glyphshow
+0.00 0.50 0.00 setrgbcolor
+220 4568 moveto
+/D glyphshow
+/r glyphshow
+/a glyphshow
+%%glyph 005a
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/w 106 RD
+88ff000005c70dff000004998b15fb65
+8b05fb51f9910567f73d05856d82607e
+53087e5247fba0fb0ffc7408fb648b05
+fbc3face05f7468b05f74bfd7305907b
+9949a3fb08089cd505f776f9ef05f755
+8b05f751fd7b05b9fb5205aaf71f05f7
+61f9ae05f7448b05090e
+ND
+end end
+/w glyphshow
+/n glyphshow
+0.00 0.50 0.00 setrgbcolor
+220 4688 moveto
+/D glyphshow
+/r glyphshow
+/a glyphshow
+/w glyphshow
+/n glyphshow
+0.00 0.50 0.00 setrgbcolor
+2620 4448 moveto
+/D glyphshow
+/e glyphshow
+%%glyph 0056
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/s 224 RD
+c4fa940dfa11f7bf158b25653c3e5408
+3e54fb0070fb1f8a08fb1b8c24a042b8
+0842b75bd075e908f733aa059a51ab61
+bb7008bb70ce7de08b08e68bce99b6a7
+08b5a7a0b58bc3088bb67cad6ea6086e
+a65ba14a9c08fb15ad0524a641a560a5
+085fa469aa72b00872b07fb88bc0088b
+eeaed6d2bf08d1bef1a5f71b8b08f70b
+8bea76d26108d161b7489e2e08fb3677
+0581bb70b060a5085fa45098428b083a
+8b4f7f647208647278668b59088b6c93
+729b77089b77a37aaa7d08aa7dcd78f0
+7208ea73d075b57708b576ac75a47208
+a3729e6f986b08986a92668b6208090e
+ND
+end end
+/s glyphshow
+/i glyphshow
+/g glyphshow
+/n glyphshow
+/e glyphshow
+%%glyph 0047
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/d 187 RD
+e1ff000004730df973f742156a465f59
+546d08546e467c3a8a08fb1d8c27b84b
+e7084ae76bf71f8bf74f088bf80df719
+f751f79d8b08dd8bcf7cc26d08c26db7
+5bac4a088d8b0589f70d058bf85505f7
+488b058bfffffffb13058bfb058d418f
+6708fb408b05899689a389b20888b28a
+ac8ba70809fcbaf804158bfb2b9ffb01
+b34a08b34acc6ae58b08f18bd5aeb9d2
+08b9d2a2f7018bf729088bf72374f45d
+ce085dce42ac268b08308b4a6a634808
+624877fb018bfb2b08090e
+ND
+end end
+/d glyphshow
+%%glyph 0003
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/space 5 RD
+8bf8cd0d0e
+ND
+end end
+/space glyphshow
+%%glyph 0045
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/b 193 RD
+f718ff000004730dfa2df8b6158bfc0d
+fb19fb50fb9d8a08398c479a55a80854
+a85fbb69cd08898b058b768a6c886108
+886089738a8408fb428b058faf8dd58b
+f705088bff000004ed05f7488b058bfc
+3b058b608a588850088f8b05acd0b8bd
+c2a908c2a9cf9adc8b08f71d8bef5dcc
+2f08cb2fabfb1f8bfb4f0809fb518515
+8bf72b77f70163cc0863cc4aac318b08
+268b41685d46085c4674fb028bfb2b08
+8bfb22a222b84808b847d569f18b08e6
+8bccadb4ce08b3ce9ff7008bf72b0809
+0e
+ND
+end end
+/b glyphshow
+%%glyph 005c
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/y 116 RD
+90fa940df74efc3d155a8c618e6a9208
+8bf71b05a488a789aa8a08f7048ce4dd
+ccf738089cb605fc41fac905f7548b05
+f778fcea058e828f80907e08907e9a5f
+a44108a44199628d8208d1f75905f781
+f94505f7528b05fc34fece055efb0762
+36645208645361615c6f085c70557d50
+8a08090e
+ND
+end end
+/y glyphshow
+0.00 0.50 0.00 setrgbcolor
+4060 4448 moveto
+%%glyph 0037
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/T 54 RD
+b9ff000004e30df936ff000004e5158b
+fffffffb1b05fb528b058bff000004e5
+05fc788b058bf73005ff000004868b05
+8bfb3005090e
+ND
+end end
+/T glyphshow
+%%glyph 00af
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/iacute 51 RD
+f756f8cd0d8b8b158bface05f7488b05
+8bfece0509fb83ff000004b1158b9f05
+f76df7b305f7638b058b6e05fbdefbaa
+05090e
+ND
+end end
+/iacute glyphshow
+/t glyphshow
+/u glyphshow
+%%glyph 004f
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/l 28 RD
+f71ef85b0d8b8b158bff000005cc05f7
+488b058bfffffffa3405090e
+ND
+end end
+/l glyphshow
+%%glyph 0052
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/o 148 RD
+e1ff000004730dfa5bf8b2158bfb5161
+fb21382e08382efb0d5efb338a08fb32
+8cfb0bba3aec083aeb63f71f8bf74a08
+8bf809f736f74ff7d78b08f7398bf70e
+5ed93008d930b2fb228bfb530809fb51
+8b158bf72975f7015fcf085ece41ad22
+8b08228b3f695c46085c4673fb008bfb
+27088bfb23a220ba4408b943d467ee8b
+08f7008bd8aebad008b9d0a2f7018bf7
+2708090e
+ND
+end end
+/o glyphshow
+0.00 0.50 0.00 setrgbcolor
+5500 4468 moveto
+/D glyphshow
+/a glyphshow
+/t glyphshow
+/e glyphshow
+0.00 0.50 0.00 setrgbcolor
+6220 4468 moveto
+%%glyph 0033
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/P 108 RD
+f73cff000005560dfad6fa6d158bfb19
+6021343c08343cfb0b64fb298b08fc32
+8b058bfcb905fb538b058bff00000581
+05f8e58b05f7328bf70e66e24108e241
+b6238bfb1b0809fb5489158bf74afb01
+e6fb6f8b08fc0f8b058bfcc005f8178b
+05f7698bf6e98bf75108090e
+ND
+end end
+/P glyphshow
+/a glyphshow
+/g glyphshow
+/e glyphshow
+%%glyph 001d
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/colon 41 RD
+f74ff8cd0d8bf9ff158bf76305f7578b
+058bfb630509fb57fdff158bf76305f7
+578b058bfb6305090e
+ND
+end end
+/colon glyphshow
+0.00 0.50 0.00 setrgbcolor
+5500 4648 moveto
+/F glyphshow
+/i glyphshow
+/l glyphshow
+/e glyphshow
+/colon glyphshow
+0.00 0.50 0.00 setrgbcolor
+929 4568 moveto
+/two glyphshow
+/four glyphshow
+%%glyph 0012
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/slash 29 RD
+8bf8cd0d8b7715f82fff000005e005f7
+328b05fc2bfffffffa2005090e
+ND
+end end
+/slash glyphshow
+%%glyph 0013
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/zero 165 RD
+dbff000004730dfa67f955158bfb7f62
+fb4838fb100838fb10fb0f4efb368a08
+fb368cfb0ec83af70f083af70f62f748
+8bf781088bf786b3f749daf70d08daf7
+0df710c7f73f8b08f73a8bf70f4edafb
+0e08dafb0eb2fb498bfb830809fb4b8b
+158bf75f74f7285ce6085ce63db9fb00
+8b08fb038b3c5e5b31085a3173fb288b
+fb62088bfb5ca4fb26bc2e08bc2ed85d
+f68b08f58bd9babcea08bceaa4f7258b
+f75808090e
+ND
+end end
+/zero glyphshow
+/five glyphshow
+/slash glyphshow
+/two glyphshow
+/zero glyphshow
+/two glyphshow
+/three glyphshow
+0.00 0.50 0.00 setrgbcolor
+1583 4568 moveto
+%%glyph 002f
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/L 39 RD
+f73cff000004730d8b8b158bff000005
+8105f7538b058bfffffffb1b05f95c8b
+058bfb3005090e
+ND
+end end
+/L glyphshow
+/u glyphshow
+%%glyph 0046
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/c 143 RD
+e2fa940df750f8b6158bfb24a220b846
+08b846d068e68b08cb8bc19cb6ae08b6
+aea5c095d308f74a7f057d235f38404d
+08404d2d6dfb078a08fb2b8cfb08ba3c
+eb083bea63f7208bf74b088bf74ab3f7
+1fdbeb08dbeaf707bbf7298b08f7038b
+e76ed45208d452b83c9e2608fb4d7d05
+82c773bb65ae0865ae559d458b082c8b
+466b604c08604c76208bfb2a08090e
+ND
+end end
+/c glyphshow
+/a glyphshow
+/s glyphshow
+/space glyphshow
+/C glyphshow
+0.00 0.50 0.00 setrgbcolor
+5793 4468 moveto
+/two glyphshow
+%%glyph 0019
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/six 204 RD
+f3ff000004730dfa45f861158bfb2963
+fb093a35083a35fb0361fb228a08fb33
+8cfb0dc537f70a0837f70a61f7408bf7
+75088bf788b7f74fe2f71708e2f717f7
+11ccf7358b08f7698bf71a2bc2fb5308
+fb406c0568f7073dc4fb0b8b08248b3c
+5b532c08522b6ffb1f8bfb4908acc8b9
+b9c6ab08c6aacf9bd88b08f7168bf262
+d83a08d73ab1fb028bfb1d0809fb4b83
+158bf172da59c20859c245a7328b0837
+8b4773585a08575a71478b35088bfb01
+a632c14608c046d068df8b08e28bcfa8
+bcc608bcc5a4db8bf108090e
+ND
+end end
+/six glyphshow
+%%glyph 0010
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/hyphen 22 RD
+e6f93e0d8bf864158bf73405f8888b05
+8bfb3405090e
+ND
+end end
+/hyphen glyphshow
+%%glyph 0030
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/M 134 RD
+f73cff000006aa0dff000004ae8b158b
+fa40058bf38eef91eb086afb0b6e2d71
+4808fc00fe5405fb1a8b05fc05fa5405
+53f73e056af702058efb03058ffb5105
+8bfe4005fb3e8b058bff0000058105f7
+8f8b05f80bfe650598649861985e0897
+5e936a8f770890a697b39cc2089cc196
+ad919908f804fa6505f7898b058bffff
+fffa7f05090e
+ND
+end end
+/M glyphshow
+/a glyphshow
+/i glyphshow
+/hyphen glyphshow
+/two glyphshow
+/zero glyphshow
+/two glyphshow
+/three glyphshow
+0.00 0.50 0.00 setrgbcolor
+6447 4468 moveto
+/one glyphshow
+/space glyphshow
+/d glyphshow
+/e glyphshow
+/space glyphshow
+/one glyphshow
+0.00 0.50 0.00 setrgbcolor
+/LiberationSans findfont
+[93 0 0 -93 0 0]
+makefont setfont
+3141 4604 moveto
+/S glyphshow
+/E glyphshow
+/N glyphshow
+/A glyphshow
+%%glyph 002c
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/I 28 RD
+f751f8cd0d8b8b158bff0000058105f7
+538b058bfffffffa7f05090e
+ND
+end end
+/I glyphshow
+0.00 0.50 0.00 setrgbcolor
+4209 4604 moveto
+/three glyphshow
+/space glyphshow
+%%glyph 0059
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/v 53 RD
+92fa940df8f28b15fb698b05fc1dface
+05f7548b05f782fd54059470a23cb0fb
+1708aef70905b2f70a05f78af95605f7
+538b05090e
+ND
+end end
+/v glyphshow
+/e glyphshow
+/n glyphshow
+/t glyphshow
+/i glyphshow
+/l glyphshow
+/a glyphshow
+/d glyphshow
+/o glyphshow
+/r glyphshow
+/e glyphshow
+/s glyphshow
+/space glyphshow
+/c glyphshow
+/o glyphshow
+/m glyphshow
+/space glyphshow
+/T glyphshow
+/e glyphshow
+/m glyphshow
+%%glyph 0011
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/period 22 RD
+f74ff8cd0d8b8b158bf76f05f7578b05
+8bfb6f05090e
+ND
+end end
+/period glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+231 1017 moveto
+/space glyphshow
+/space glyphshow
+/hyphen glyphshow
+/C glyphshow
+/G glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+600 929 moveto
+/one glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+720 929 moveto
+/three glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+840 929 moveto
+/five glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+600 1109 moveto
+/two glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+720 1109 moveto
+/four glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+840 1109 moveto
+/six glyphshow
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+580 880 moveto
+580 940 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+700 880 moveto
+700 940 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+820 880 moveto
+820 940 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+580 1060 moveto
+580 1120 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+700 1060 moveto
+700 1120 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+820 1060 moveto
+820 1120 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+520 940 moveto
+580 1060 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+640 940 moveto
+700 1060 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+760 940 moveto
+820 1060 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+552 1000 moveto
+592 1000 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+652 1000 moveto
+692 1000 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+748 1000 moveto
+788 1000 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+400 960 moveto
+400 1040 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+400 1000 moveto
+420 1000 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+440 1000 moveto
+460 1000 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+460 1000 moveto
+480 1060 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+480 1060 moveto
+500 1000 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+500 1000 moveto
+520 1000 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+441 777 moveto
+/space glyphshow
+/space glyphshow
+/space glyphshow
+/hyphen glyphshow
+%%glyph 003b
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/X 65 RD
+b9ff000005560dfabe8b15fc3bf8fc05
+fc44fcfc05fb678b05f8acf97005fc83
+f93905f7678b05f81cfcbd05f811f8bd
+05f7678b05fc76fd3205f89ffd770509
+0e
+ND
+end end
+/X glyphshow
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+580 760 translate
+40 40 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+580 780 moveto
+580 820 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+548 729 moveto
+/L glyphshow
+/one glyphshow
+/space glyphshow
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+700 760 translate
+40 40 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+700 780 moveto
+700 820 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+668 729 moveto
+/L glyphshow
+/two glyphshow
+/space glyphshow
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+820 760 translate
+40 40 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+820 780 moveto
+820 820 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+788 729 moveto
+/L glyphshow
+/three glyphshow
+/space glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+220 1557 moveto
+/space glyphshow
+/space glyphshow
+/hyphen glyphshow
+%%glyph 0034
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/Q 236 RD
+ecff000006390dff00000576f95b158b
+fb5b59fb3727fb140827fb14fb1f3ffb
+467408a638af4eb86608b766c378cf8a
+08b08cb18fb393088bfb1a054d7d5084
+528a08268c39a74ac4084ac455ea62f7
+1908fb1892fb06ac2cc8082bc742df59
+f7000858f672f7118bf722088bf775c9
+f745f70ff71308f70ff713f740caf770
+8b08f7238bf7116ff45208f452dc38c3
+fb0108c2fb01a7fb148bfb280809fb57
+8b158bf7435ff71e34ef0833effb10bd
+fb348b08fb358bfb115a33280833285f
+fb1e8bfb46088bfb45b8fb20e42408e4
+23f70f57f7328b08f7378bf711bde2f0
+08e2efb6f7228bf74b08090e
+ND
+end end
+/Q glyphshow
+/one glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+600 1469 moveto
+/one glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+720 1469 moveto
+/three glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+840 1469 moveto
+/five glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+600 1829 moveto
+/two glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+720 1829 moveto
+/four glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+840 1829 moveto
+/six glyphshow
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+580 1420 moveto
+580 1480 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+580 1600 moveto
+580 1660 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+580 1780 moveto
+580 1840 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+520 1480 moveto
+580 1600 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+580 1660 moveto
+580 1676 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+580 1676 moveto
+608 1676 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+608 1676 moveto
+608 1704 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+608 1704 moveto
+580 1704 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+580 1704 moveto
+580 1720 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+580 1769 moveto
+/I glyphshow
+%%glyph 0021
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/greater 40 RD
+f0ff000004ac0d8bf72e158bf72d05f9
+eef80305fdeef802058bf72e05fa77fc
+36058bfb6105090e
+ND
+end end
+/greater glyphshow
+/space glyphshow
+/space glyphshow
+/space glyphshow
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+700 1420 moveto
+700 1480 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+700 1600 moveto
+700 1660 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+700 1780 moveto
+700 1840 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+640 1480 moveto
+700 1600 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+700 1660 moveto
+700 1676 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+700 1676 moveto
+728 1676 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+728 1676 moveto
+728 1704 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+728 1704 moveto
+700 1704 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+700 1704 moveto
+700 1720 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+700 1769 moveto
+/I glyphshow
+/greater glyphshow
+/space glyphshow
+/space glyphshow
+/space glyphshow
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+820 1420 moveto
+820 1480 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+820 1600 moveto
+820 1660 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+820 1780 moveto
+820 1840 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+760 1480 moveto
+820 1600 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+820 1660 moveto
+820 1676 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+820 1676 moveto
+848 1676 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+848 1676 moveto
+848 1704 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+848 1704 moveto
+820 1704 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+820 1704 moveto
+820 1720 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+820 1769 moveto
+/I glyphshow
+/greater glyphshow
+/space glyphshow
+/space glyphshow
+/space glyphshow
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+520 1660 moveto
+880 1660 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+520 1720 moveto
+880 1720 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+520 1780 moveto
+880 1780 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+520 1660 moveto
+520 1780 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+640 1660 moveto
+640 1780 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+760 1660 moveto
+760 1780 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+880 1660 moveto
+880 1780 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+380 1500 moveto
+380 1580 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+380 1540 moveto
+420 1540 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+420 1500 moveto
+420 1580 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+460 1500 moveto
+460 1580 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+500 1500 moveto
+500 1580 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+420 1580 moveto
+500 1580 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+420 1540 moveto
+500 1540 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+420 1500 moveto
+500 1500 lineto
+stroke
+gsave
+500 1580 moveto
+0 0 rlineto
+0 0 rlineto
+0 0 rlineto
+closepath
+0.00 0.00 0.00 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+500 1540 moveto
+520 1540 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+552 1540 moveto
+592 1540 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+652 1540 moveto
+692 1540 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+748 1540 moveto
+788 1540 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+460 1580 moveto
+460 1600 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+460 1620 moveto
+460 1648 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+460 1668 moveto
+460 1708 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+460 1688 moveto
+480 1688 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+500 1688 moveto
+520 1688 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+460 1728 moveto
+460 1748 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+460 1748 moveto
+480 1748 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+500 1748 moveto
+520 1748 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+1060 1557 moveto
+/space glyphshow
+/space glyphshow
+/hyphen glyphshow
+/Q glyphshow
+/two glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+1440 1469 moveto
+/one glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+1560 1469 moveto
+/three glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+1680 1469 moveto
+/five glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+1440 1829 moveto
+/two glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+1560 1829 moveto
+/four glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+1680 1829 moveto
+/six glyphshow
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1420 1420 moveto
+1420 1480 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1420 1600 moveto
+1420 1660 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1420 1780 moveto
+1420 1840 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1360 1480 moveto
+1420 1600 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1420 1660 moveto
+1420 1676 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1420 1676 moveto
+1448 1676 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1448 1676 moveto
+1448 1704 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1448 1704 moveto
+1420 1704 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1420 1704 moveto
+1420 1720 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+1420 1769 moveto
+/I glyphshow
+/greater glyphshow
+/space glyphshow
+/space glyphshow
+/space glyphshow
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1540 1420 moveto
+1540 1480 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1540 1600 moveto
+1540 1660 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1540 1780 moveto
+1540 1840 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1480 1480 moveto
+1540 1600 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1540 1660 moveto
+1540 1676 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1540 1676 moveto
+1568 1676 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1568 1676 moveto
+1568 1704 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1568 1704 moveto
+1540 1704 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1540 1704 moveto
+1540 1720 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+1540 1769 moveto
+/I glyphshow
+/greater glyphshow
+/space glyphshow
+/space glyphshow
+/space glyphshow
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1660 1420 moveto
+1660 1480 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1660 1600 moveto
+1660 1660 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1660 1780 moveto
+1660 1840 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1600 1480 moveto
+1660 1600 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1660 1660 moveto
+1660 1676 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1660 1676 moveto
+1688 1676 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1688 1676 moveto
+1688 1704 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1688 1704 moveto
+1660 1704 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1660 1704 moveto
+1660 1720 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+1660 1769 moveto
+/I glyphshow
+/greater glyphshow
+/space glyphshow
+/space glyphshow
+/space glyphshow
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1360 1660 moveto
+1720 1660 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1360 1720 moveto
+1720 1720 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1360 1780 moveto
+1720 1780 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1360 1660 moveto
+1360 1780 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1480 1660 moveto
+1480 1780 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1600 1660 moveto
+1600 1780 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1720 1660 moveto
+1720 1780 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1220 1500 moveto
+1220 1580 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1220 1540 moveto
+1260 1540 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1260 1500 moveto
+1260 1580 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1300 1500 moveto
+1300 1580 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1340 1500 moveto
+1340 1580 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1260 1580 moveto
+1340 1580 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1260 1540 moveto
+1340 1540 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1260 1500 moveto
+1340 1500 lineto
+stroke
+gsave
+1340 1580 moveto
+0 0 rlineto
+0 0 rlineto
+0 0 rlineto
+closepath
+0.00 0.00 0.00 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1340 1540 moveto
+1360 1540 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1392 1540 moveto
+1432 1540 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1492 1540 moveto
+1532 1540 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1588 1540 moveto
+1628 1540 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1300 1580 moveto
+1300 1600 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1300 1620 moveto
+1300 1648 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1300 1668 moveto
+1300 1708 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1300 1688 moveto
+1320 1688 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1340 1688 moveto
+1360 1688 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1300 1728 moveto
+1300 1748 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1300 1748 moveto
+1320 1748 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1340 1748 moveto
+1360 1748 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+1780 1557 moveto
+/space glyphshow
+/space glyphshow
+/hyphen glyphshow
+/Q glyphshow
+/three glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+2160 1469 moveto
+/one glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+2280 1469 moveto
+/three glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+2400 1469 moveto
+/five glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+2160 1829 moveto
+/two glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+2280 1829 moveto
+/four glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+2400 1829 moveto
+/six glyphshow
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2140 1420 moveto
+2140 1480 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2140 1600 moveto
+2140 1660 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2140 1780 moveto
+2140 1840 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2080 1480 moveto
+2140 1600 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2140 1660 moveto
+2140 1676 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2140 1676 moveto
+2168 1676 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2168 1676 moveto
+2168 1704 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2168 1704 moveto
+2140 1704 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2140 1704 moveto
+2140 1720 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+2140 1769 moveto
+/I glyphshow
+/greater glyphshow
+/space glyphshow
+/space glyphshow
+/space glyphshow
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2260 1420 moveto
+2260 1480 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2260 1600 moveto
+2260 1660 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2260 1780 moveto
+2260 1840 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2200 1480 moveto
+2260 1600 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2260 1660 moveto
+2260 1676 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2260 1676 moveto
+2288 1676 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2288 1676 moveto
+2288 1704 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2288 1704 moveto
+2260 1704 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2260 1704 moveto
+2260 1720 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+2260 1769 moveto
+/I glyphshow
+/greater glyphshow
+/space glyphshow
+/space glyphshow
+/space glyphshow
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2380 1420 moveto
+2380 1480 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2380 1600 moveto
+2380 1660 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2380 1780 moveto
+2380 1840 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2320 1480 moveto
+2380 1600 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2380 1660 moveto
+2380 1676 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2380 1676 moveto
+2408 1676 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2408 1676 moveto
+2408 1704 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2408 1704 moveto
+2380 1704 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2380 1704 moveto
+2380 1720 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+2380 1769 moveto
+/I glyphshow
+/greater glyphshow
+/space glyphshow
+/space glyphshow
+/space glyphshow
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2080 1660 moveto
+2440 1660 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2080 1720 moveto
+2440 1720 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2080 1780 moveto
+2440 1780 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2080 1660 moveto
+2080 1780 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2200 1660 moveto
+2200 1780 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2320 1660 moveto
+2320 1780 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2440 1660 moveto
+2440 1780 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1940 1500 moveto
+1940 1580 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1940 1540 moveto
+1980 1540 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1980 1500 moveto
+1980 1580 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2020 1500 moveto
+2020 1580 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2060 1500 moveto
+2060 1580 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1980 1580 moveto
+2060 1580 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1980 1540 moveto
+2060 1540 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1980 1500 moveto
+2060 1500 lineto
+stroke
+gsave
+2060 1580 moveto
+0 0 rlineto
+0 0 rlineto
+0 0 rlineto
+closepath
+0.00 0.00 0.00 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2060 1540 moveto
+2080 1540 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2112 1540 moveto
+2152 1540 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2212 1540 moveto
+2252 1540 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2308 1540 moveto
+2348 1540 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2020 1580 moveto
+2020 1600 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2020 1620 moveto
+2020 1648 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2020 1668 moveto
+2020 1708 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2020 1688 moveto
+2040 1688 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2060 1688 moveto
+2080 1688 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2020 1728 moveto
+2020 1748 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2020 1748 moveto
+2040 1748 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2060 1748 moveto
+2080 1748 lineto
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+822 1362 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+702 1302 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+582 1242 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+1422 1242 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+386 2097 moveto
+/space glyphshow
+/space glyphshow
+/hyphen glyphshow
+%%glyph 002e
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/K 66 RD
+f73cff000005560dfa3e8b15fcc7f93c
+05fb4cfb20058bfcb005fb538b058bff
+0000058105f7538b058bfd5605f93bf9
+5605f7758b05fcecfcf805f93cfdb105
+090e
+ND
+end end
+/K glyphshow
+/one glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+600 2009 moveto
+/one glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+720 2009 moveto
+/three glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+840 2009 moveto
+/five glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+600 2189 moveto
+/two glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+720 2189 moveto
+/four glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+840 2189 moveto
+/six glyphshow
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+580 1960 moveto
+580 2020 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+700 1960 moveto
+700 2020 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+820 1960 moveto
+820 2020 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+580 2140 moveto
+580 2200 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+700 2140 moveto
+700 2200 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+820 2140 moveto
+820 2200 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+520 2020 moveto
+580 2140 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+640 2020 moveto
+700 2140 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+760 2020 moveto
+820 2140 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+552 2080 moveto
+592 2080 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+652 2080 moveto
+692 2080 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+748 2080 moveto
+788 2080 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+1226 2097 moveto
+/space glyphshow
+/space glyphshow
+/hyphen glyphshow
+/K glyphshow
+/two glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+1440 2009 moveto
+/one glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+1560 2009 moveto
+/three glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+1680 2009 moveto
+/five glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+1440 2189 moveto
+/two glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+1560 2189 moveto
+/four glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+1680 2189 moveto
+/six glyphshow
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1420 1960 moveto
+1420 2020 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1540 1960 moveto
+1540 2020 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1660 1960 moveto
+1660 2020 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1420 2140 moveto
+1420 2200 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1540 2140 moveto
+1540 2200 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1660 2140 moveto
+1660 2200 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1360 2020 moveto
+1420 2140 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1480 2020 moveto
+1540 2140 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1600 2020 moveto
+1660 2140 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1392 2080 moveto
+1432 2080 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1492 2080 moveto
+1532 2080 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1588 2080 moveto
+1628 2080 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+1946 2097 moveto
+/space glyphshow
+/space glyphshow
+/hyphen glyphshow
+/K glyphshow
+/three glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+2160 2009 moveto
+/one glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+2280 2009 moveto
+/three glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+2400 2009 moveto
+/five glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+2160 2189 moveto
+/two glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+2280 2189 moveto
+/four glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+2400 2189 moveto
+/six glyphshow
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2140 1960 moveto
+2140 2020 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2260 1960 moveto
+2260 2020 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2380 1960 moveto
+2380 2020 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2140 2140 moveto
+2140 2200 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2260 2140 moveto
+2260 2200 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2380 2140 moveto
+2380 2200 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2080 2020 moveto
+2140 2140 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2200 2020 moveto
+2260 2140 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2320 2020 moveto
+2380 2140 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2112 2080 moveto
+2152 2080 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2212 2080 moveto
+2252 2080 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2308 2080 moveto
+2348 2080 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+377 2649 moveto
+/space glyphshow
+/space glyphshow
+/hyphen glyphshow
+/M glyphshow
+/one glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+600 2429 moveto
+%%glyph 0038
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/U 116 RD
+f732ff000005c70df8d17715fb078c26
+9f35b50835b548c85cdb085cdb73ea8b
+f703088bfa1505f7538b058bfe05058b
+fb15ac2acc4808cc48ea6af70f8b08f7
+138bedaed2d008d1d0aeef8bf719088b
+f9f805f7528b058bfe03058bfb067329
+5b38085a38474c336008325f2376fb0c
+8a08090e
+ND
+end end
+/U glyphshow
+/one glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+720 2429 moveto
+%%glyph 0039
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/V 51 RD
+94ff000005560df9998b15fb5a8b05fc
+d3ff0000058105f75d8b05f81afe7405
+dffb8d05dff78d05f818fa7405f75d8b
+05090e
+ND
+end end
+/V glyphshow
+/one glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+840 2429 moveto
+%%glyph 003a
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/W 140 RD
+94ff0000078d0dff000005de8b15fb78
+8b05fb88fa13057bc374ef6cf725087a
+3e7c4a7f57087f5730fbe2fb3efcfc08
+fb788b05fc33ff0000058105f75b8b05
+f791fe1305a9fb04a7fb07a4fb0b089b
+d49edba0e208a0e2e7f7e1f738f8d908
+f74b8b05f789fe0105b0fb23a9fb0ea0
+280894ae059dd89ac996bc0896bbe9f7
+e7f744f90b08f75b8b05090e
+ND
+end end
+/W glyphshow
+/one glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+960 2429 moveto
+/P glyphshow
+/E glyphshow
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+700 2620 translate
+360 360 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+580 2380 moveto
+580 2488 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+700 2380 moveto
+700 2440 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+820 2380 moveto
+820 2488 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+940 2380 moveto
+940 2620 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+940 2620 moveto
+900 2620 lineto
+stroke
+%DrawArc
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+700 2620 translate
+400 400 scale
+0 0 0.5 -12.5 12.5 arc
+tmpmtrx setmatrix
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+684 2589 moveto
+/M glyphshow
+/space glyphshow
+/space glyphshow
+/space glyphshow
+/space glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+628 2677 moveto
+/three glyphshow
+/space glyphshow
+/space glyphshow
+/space glyphshow
+/space glyphshow
+%DrawArc
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+740 2652 translate
+40 40 scale
+0 0 0.5 -180.0 -0.0 arc
+tmpmtrx setmatrix
+stroke
+%DrawArc
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+780 2652 translate
+40 40 scale
+0 0 0.5 -0.0 -180.0 arc
+tmpmtrx setmatrix
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+1217 2649 moveto
+/space glyphshow
+/space glyphshow
+/hyphen glyphshow
+/M glyphshow
+/two glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+1440 2429 moveto
+/U glyphshow
+/one glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+1560 2429 moveto
+/V glyphshow
+/one glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+1680 2429 moveto
+/W glyphshow
+/one glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+1800 2429 moveto
+/P glyphshow
+/E glyphshow
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+1540 2620 translate
+360 360 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1420 2380 moveto
+1420 2488 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1540 2380 moveto
+1540 2440 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1660 2380 moveto
+1660 2488 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1780 2380 moveto
+1780 2620 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1780 2620 moveto
+1740 2620 lineto
+stroke
+%DrawArc
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+1540 2620 translate
+400 400 scale
+0 0 0.5 -12.5 12.5 arc
+tmpmtrx setmatrix
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+1524 2589 moveto
+/M glyphshow
+/space glyphshow
+/space glyphshow
+/space glyphshow
+/space glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+1468 2677 moveto
+/three glyphshow
+/space glyphshow
+/space glyphshow
+/space glyphshow
+/space glyphshow
+%DrawArc
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+1580 2652 translate
+40 40 scale
+0 0 0.5 -180.0 -0.0 arc
+tmpmtrx setmatrix
+stroke
+%DrawArc
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+1620 2652 translate
+40 40 scale
+0 0 0.5 -0.0 -180.0 arc
+tmpmtrx setmatrix
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+1937 2649 moveto
+/space glyphshow
+/space glyphshow
+/hyphen glyphshow
+/M glyphshow
+/three glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+2160 2429 moveto
+/U glyphshow
+/one glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+2280 2429 moveto
+/V glyphshow
+/one glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+2400 2429 moveto
+/W glyphshow
+/one glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+2520 2429 moveto
+/P glyphshow
+/E glyphshow
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+2260 2620 translate
+360 360 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2140 2380 moveto
+2140 2488 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2260 2380 moveto
+2260 2440 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2380 2380 moveto
+2380 2488 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2500 2380 moveto
+2500 2620 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2500 2620 moveto
+2460 2620 lineto
+stroke
+%DrawArc
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+2260 2620 translate
+400 400 scale
+0 0 0.5 -12.5 12.5 arc
+tmpmtrx setmatrix
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+2244 2589 moveto
+/M glyphshow
+/space glyphshow
+/space glyphshow
+/space glyphshow
+/space glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+2188 2677 moveto
+/three glyphshow
+/space glyphshow
+/space glyphshow
+/space glyphshow
+/space glyphshow
+%DrawArc
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+2300 2652 translate
+40 40 scale
+0 0 0.5 -180.0 -0.0 arc
+tmpmtrx setmatrix
+stroke
+%DrawArc
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+2340 2652 translate
+40 40 scale
+0 0 0.5 -0.0 -180.0 arc
+tmpmtrx setmatrix
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+1140 1201 moveto
+/space glyphshow
+/space glyphshow
+/space glyphshow
+/hyphen glyphshow
+/X glyphshow
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1000 1152 moveto
+1060 1152 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1060 1152 moveto
+1120 1180 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1120 1180 moveto
+1060 1208 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1060 1208 moveto
+1000 1208 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1000 1208 moveto
+1000 1152 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+940 1180 moveto
+1000 1180 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+960 1229 moveto
+/hyphen glyphshow
+/X glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+3281 661 moveto
+/space glyphshow
+/space glyphshow
+/space glyphshow
+/hyphen glyphshow
+/X glyphshow
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3520 640 moveto
+3580 640 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3520 640 moveto
+3460 612 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3460 612 moveto
+3400 612 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3400 612 moveto
+3400 668 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3400 668 moveto
+3460 668 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3460 668 moveto
+3520 640 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+3600 689 moveto
+/hyphen glyphshow
+/X glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+3544 897 moveto
+/space glyphshow
+/space glyphshow
+/space glyphshow
+/hyphen glyphshow
+/F glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+3780 809 moveto
+/one glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+3780 989 moveto
+/two glyphshow
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3760 760 moveto
+3760 820 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3760 940 moveto
+3760 1000 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3700 820 moveto
+3760 940 lineto
+stroke
+%PolyPolygon
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3680 856 moveto
+3712 840 lineto
+3728 872 lineto
+3696 888 lineto
+closepath
+gsave
+0.00 0.00 0.00 setrgbcolor
+eofill
+grestore
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+3581 1229 moveto
+/space glyphshow
+/space glyphshow
+/space glyphshow
+/hyphen glyphshow
+/V glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+3780 1109 moveto
+/one glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+3900 1109 moveto
+/two glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+3780 1409 moveto
+/three glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+3900 1409 moveto
+/four glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+3960 1289 moveto
+/P glyphshow
+/E glyphshow
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3760 1060 moveto
+3760 1120 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3880 1060 moveto
+3880 1120 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3760 1360 moveto
+3760 1420 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3880 1360 moveto
+3880 1420 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3940 1240 moveto
+4000 1240 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3700 1120 moveto
+3940 1120 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3940 1120 moveto
+3940 1360 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3940 1360 moveto
+3700 1360 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3700 1360 moveto
+3700 1120 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3700 1360 moveto
+3940 1120 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+3744 1353 moveto
+%%glyph 000e
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/plus 58 RD
+efff000004ac0df8cff8f4158bfc4005
+fb278b058bf84005fc3c8b058bf72605
+f83c8b058bf84005f7278b058bfc4005
+f83c8b058bfb2605090e
+ND
+end end
+/plus glyphshow
+/space glyphshow
+/space glyphshow
+/space glyphshow
+/space glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+3872 1353 moveto
+/hyphen glyphshow
+/space glyphshow
+/space glyphshow
+/space glyphshow
+/space glyphshow
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3840 1280 moveto
+3900 1280 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3840 1300 moveto
+3900 1300 lineto
+stroke
+%DrawArc
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3760 1192 translate
+40 40 scale
+0 0 0.5 -180.0 -0.0 arc
+tmpmtrx setmatrix
+stroke
+%DrawArc
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3800 1192 translate
+40 40 scale
+0 0 0.5 -0.0 -180.0 arc
+tmpmtrx setmatrix
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+3741 657 moveto
+/space glyphshow
+/space glyphshow
+/space glyphshow
+/hyphen glyphshow
+/X glyphshow
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3880 640 translate
+40 40 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3880 660 moveto
+3880 700 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+3864 609 moveto
+/N glyphshow
+/space glyphshow
+/space glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+3921 657 moveto
+/space glyphshow
+/space glyphshow
+/space glyphshow
+/hyphen glyphshow
+/X glyphshow
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+4060 640 translate
+40 40 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+4060 660 moveto
+4060 700 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+4028 609 moveto
+/P glyphshow
+/E glyphshow
+/space glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+3529 1617 moveto
+/space glyphshow
+/space glyphshow
+/hyphen glyphshow
+/F glyphshow
+/two glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+3780 1529 moveto
+/one glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+3900 1529 moveto
+/three glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+3780 1709 moveto
+/two glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+3900 1709 moveto
+/four glyphshow
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3760 1480 moveto
+3760 1540 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3760 1660 moveto
+3760 1720 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3700 1540 moveto
+3760 1660 lineto
+stroke
+%PolyPolygon
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3680 1576 moveto
+3712 1560 lineto
+3728 1592 lineto
+3696 1608 lineto
+closepath
+gsave
+0.00 0.00 0.00 setrgbcolor
+eofill
+grestore
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3880 1480 moveto
+3880 1540 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3880 1660 moveto
+3880 1720 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3820 1540 moveto
+3880 1660 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3732 1600 moveto
+3772 1600 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3816 1600 moveto
+3856 1600 lineto
+stroke
+%PolyPolygon
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3800 1576 moveto
+3832 1560 lineto
+3848 1592 lineto
+3816 1608 lineto
+closepath
+gsave
+0.00 0.00 0.00 setrgbcolor
+eofill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+822 1182 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+3486 1917 moveto
+/space glyphshow
+/space glyphshow
+/hyphen glyphshow
+/B glyphshow
+/zero glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+3780 1829 moveto
+/one glyphshow
+/one glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+3780 2009 moveto
+/one glyphshow
+/two glyphshow
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3760 1780 moveto
+3760 1840 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3760 1960 moveto
+3760 2020 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3820 1840 moveto
+3760 1960 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3760 1852 moveto
+3832 1852 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3760 1840 moveto
+3760 1852 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3640 1900 moveto
+3680 1900 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3700 1900 moveto
+3740 1900 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3760 1900 moveto
+3792 1900 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3640 1872 moveto
+3640 1928 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3640 1872 moveto
+3668 1872 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3640 1928 moveto
+3668 1928 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+3446 2217 moveto
+/space glyphshow
+/space glyphshow
+/hyphen glyphshow
+/B glyphshow
+/one glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+3780 2129 moveto
+/one glyphshow
+/three glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+3780 2309 moveto
+/one glyphshow
+/four glyphshow
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3760 2080 moveto
+3760 2140 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3760 2260 moveto
+3760 2320 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3700 2140 moveto
+3760 2260 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3640 2200 moveto
+3680 2200 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3700 2200 moveto
+3732 2200 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3640 2172 moveto
+3640 2228 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3640 2172 moveto
+3668 2172 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3640 2228 moveto
+3612 2228 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+3560 2817 moveto
+/space glyphshow
+/space glyphshow
+/hyphen glyphshow
+/Q glyphshow
+/one glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+3780 2729 moveto
+/one glyphshow
+/three glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+3780 2909 moveto
+/one glyphshow
+/four glyphshow
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3760 2680 moveto
+3760 2740 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3760 2860 moveto
+3760 2920 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3700 2740 moveto
+3760 2860 lineto
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 2502 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 2502 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+4606 3777 moveto
+/space glyphshow
+/space glyphshow
+/hyphen glyphshow
+/K glyphshow
+/two glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+4860 3689 moveto
+/A glyphshow
+/one glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+4860 3869 moveto
+/A glyphshow
+/two glyphshow
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+4840 3640 moveto
+4840 3700 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+4840 3820 moveto
+4840 3880 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+4840 3700 moveto
+4840 3720 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+4840 3800 moveto
+4840 3820 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+4760 3720 moveto
+4920 3720 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+4760 3800 moveto
+4920 3800 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+4760 3720 moveto
+4760 3800 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+4920 3720 moveto
+4920 3800 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+5083 3777 moveto
+/space glyphshow
+/space glyphshow
+/hyphen glyphshow
+/D glyphshow
+/two glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+5340 3689 moveto
+/A glyphshow
+/one glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+5340 3869 moveto
+/A glyphshow
+/two glyphshow
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+5320 3640 moveto
+5320 3700 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+5320 3820 moveto
+5320 3880 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+5320 3700 moveto
+5320 3720 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+5320 3800 moveto
+5320 3820 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+5240 3720 moveto
+5400 3720 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+5240 3800 moveto
+5400 3800 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+5240 3720 moveto
+5240 3800 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+5400 3720 moveto
+5400 3800 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+5300 3720 moveto
+5300 3800 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+5240 3800 moveto
+5300 3720 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+5240 3720 moveto
+5300 3800 lineto
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 2502 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+6046 3777 moveto
+/space glyphshow
+/space glyphshow
+/hyphen glyphshow
+/K glyphshow
+/three glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+6300 3689 moveto
+/A glyphshow
+/one glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+6300 3869 moveto
+/A glyphshow
+/two glyphshow
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+6280 3640 moveto
+6280 3700 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+6280 3820 moveto
+6280 3880 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+6280 3700 moveto
+6280 3720 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+6280 3800 moveto
+6280 3820 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+6200 3720 moveto
+6360 3720 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+6200 3800 moveto
+6360 3800 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+6200 3720 moveto
+6200 3800 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+6360 3720 moveto
+6360 3800 lineto
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 2502 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+5082 4242 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+5082 3942 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 2502 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+5043 2877 moveto
+/space glyphshow
+/space glyphshow
+/hyphen glyphshow
+/D glyphshow
+/one glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+5340 2789 moveto
+/six glyphshow
+%%glyph 001a
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/seven 86 RD
+f4ff000004730dfa37ff000004ef15fb
+24fb7025fb4050fb110850fb115efb0f
+6efb0d086dfb0d7cfb128bfb1608fb50
+8b058bf748b1f752d8f75b08d7f75bf7
+13f779f747f79708fd898b058bf72d05
+fa378b05090e
+ND
+end end
+/seven glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+5340 2969 moveto
+/six glyphshow
+%%glyph 001b
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/eight 256 RD
+e4ff000004730dfa55f81d158bfb1662
+263842083842fb0a68fb2f8a08fb2b8c
+fb09ae36d20836d260f18bf717088be7
+a5d8c0ca08c0caceb1dd98088b8f053e
+9d4fb25fc7085ec775d18bdc088bf6b3
+e2dcce08dbcef700acf71b8b08f71f8b
+f7016adc4a08db4ab3328bfb03088b3a
+75455e4f085e4f4e653e7c088b8705e5
+7cd165bd4e08bd4da43e8b2e0809fb72
+f92c158bf73334dbfb438b08368b4b77
+5f63085e63754f8b3c088b3aa24eb961
+08b860cc76de8b08e08bcb9fb8b208b7
+b2a1ca8be20809aefd1b158be271cd57
+b80857b742a12d8b08308b4373585c08
+585b71498b38088bfb56ee2af75a8b08
+ed8bd4a3bbba08bbbaa3d58bf208090e
+ND
+end end
+/eight glyphshow
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+5320 2740 moveto
+5320 2800 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+5320 2920 moveto
+5320 2980 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+5260 2800 moveto
+5320 2920 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+5200 2860 moveto
+5240 2860 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+5260 2860 moveto
+5292 2860 lineto
+stroke
+%DrawArc
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+5240 2860 translate
+80 80 scale
+0 0 0.5 90.0 -90.0 arc
+tmpmtrx setmatrix
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+5082 3582 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+5082 3042 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 2502 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+5082 2682 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+5082 2502 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+6243 2877 moveto
+/space glyphshow
+/space glyphshow
+/hyphen glyphshow
+/D glyphshow
+/two glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+6540 2789 moveto
+/six glyphshow
+/seven glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+6540 2969 moveto
+/six glyphshow
+/eight glyphshow
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+6520 2740 moveto
+6520 2800 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+6520 2920 moveto
+6520 2980 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+6460 2800 moveto
+6520 2920 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+6400 2860 moveto
+6440 2860 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+6460 2860 moveto
+6492 2860 lineto
+stroke
+%DrawArc
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+6440 2860 translate
+80 80 scale
+0 0 0.5 90.0 -90.0 arc
+tmpmtrx setmatrix
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 2502 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+5082 3162 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+6282 3042 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+6282 2682 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+5082 3582 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+5082 4242 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+5082 3942 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+5840 2877 moveto
+/space glyphshow
+/space glyphshow
+/hyphen glyphshow
+/Q glyphshow
+/two glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+6060 2789 moveto
+/one glyphshow
+/one glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+6060 2969 moveto
+/one glyphshow
+/two glyphshow
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+6040 2740 moveto
+6040 2800 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+6040 2920 moveto
+6040 2980 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+6100 2800 moveto
+6040 2920 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+6040 2812 moveto
+6112 2812 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+6040 2800 moveto
+6040 2812 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+4640 2877 moveto
+/space glyphshow
+/space glyphshow
+/hyphen glyphshow
+/Q glyphshow
+/one glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+4860 2789 moveto
+/one glyphshow
+/one glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+4860 2969 moveto
+/one glyphshow
+/two glyphshow
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+4840 2740 moveto
+4840 2800 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+4840 2920 moveto
+4840 2980 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+4900 2800 moveto
+4840 2920 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+4840 2812 moveto
+4912 2812 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+4840 2800 moveto
+4840 2812 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+4880 3417 moveto
+/space glyphshow
+/space glyphshow
+/hyphen glyphshow
+/Q glyphshow
+/two glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+5100 3329 moveto
+/one glyphshow
+/three glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+5100 3509 moveto
+/one glyphshow
+/four glyphshow
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+5080 3280 moveto
+5080 3340 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+5080 3460 moveto
+5080 3520 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+5020 3340 moveto
+5080 3460 lineto
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+6282 4242 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+6080 3357 moveto
+/space glyphshow
+/space glyphshow
+/hyphen glyphshow
+/Q glyphshow
+/three glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+6300 3269 moveto
+/one glyphshow
+/three glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+6300 3449 moveto
+/one glyphshow
+/four glyphshow
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+6280 3220 moveto
+6280 3280 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+6280 3400 moveto
+6280 3460 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+6220 3280 moveto
+6280 3400 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+3286 3777 moveto
+/space glyphshow
+/space glyphshow
+/hyphen glyphshow
+/K glyphshow
+/one glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+3540 3689 moveto
+/A glyphshow
+/one glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+3540 3869 moveto
+/A glyphshow
+/two glyphshow
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3520 3640 moveto
+3520 3700 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3520 3820 moveto
+3520 3880 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3520 3700 moveto
+3520 3720 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3520 3800 moveto
+3520 3820 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3440 3720 moveto
+3600 3720 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3440 3800 moveto
+3600 3800 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3440 3720 moveto
+3440 3800 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3600 3720 moveto
+3600 3800 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+3763 3777 moveto
+/space glyphshow
+/space glyphshow
+/hyphen glyphshow
+/D glyphshow
+/one glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+4020 3689 moveto
+/A glyphshow
+/one glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans findfont
+[54 0 0 -54 0 0]
+makefont setfont
+4020 3869 moveto
+/A glyphshow
+/two glyphshow
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+4000 3640 moveto
+4000 3700 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+4000 3820 moveto
+4000 3880 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+4000 3700 moveto
+4000 3720 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+4000 3800 moveto
+4000 3820 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3920 3720 moveto
+4080 3720 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3920 3800 moveto
+4080 3800 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3920 3720 moveto
+3920 3800 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+4080 3720 moveto
+4080 3800 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3980 3720 moveto
+3980 3800 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3920 3800 moveto
+3980 3720 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3920 3720 moveto
+3980 3800 lineto
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 3942 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 3582 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 3582 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 3942 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 3942 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+6282 4242 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+6282 3042 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+4 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+6282 3042 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+822 1362 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+702 1302 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+582 1242 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+1422 1242 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+822 1182 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 2502 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 2502 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 2502 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 2502 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+5082 4242 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+5082 3942 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 2502 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+5082 3582 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+5082 3042 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 2502 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+5082 2682 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+5082 2502 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 2502 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+5082 3162 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+6282 3042 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+6282 2682 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+5082 3582 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+5082 4242 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+5082 3942 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+6282 4242 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 3942 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 3582 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 3582 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 3942 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 3942 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+6282 4242 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+6282 3042 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+6282 3042 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+822 1362 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+702 1302 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+582 1242 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+1422 1242 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+822 1182 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 2502 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 2502 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 2502 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 2502 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+5082 4242 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+5082 3942 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 2502 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+5082 3582 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+5082 3042 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 2502 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+5082 2682 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+5082 2502 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 2502 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+5082 3162 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+6282 3042 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+6282 2682 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+5082 3582 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+5082 4242 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+5082 3942 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+6282 4242 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 3942 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 3582 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 3582 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 3942 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 3942 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+6282 4242 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+6282 3042 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+6282 3042 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+1.00 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+580 1120 moveto
+580 1420 lineto
+stroke
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+700 1120 moveto
+700 1420 lineto
+stroke
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+820 1120 moveto
+820 1420 lineto
+stroke
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+820 1360 moveto
+1660 1360 lineto
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+822 1362 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.50 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1660 1360 moveto
+1660 1420 lineto
+stroke
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1660 1360 moveto
+2380 1360 lineto
+stroke
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2380 1360 moveto
+2380 1420 lineto
+stroke
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+700 1300 moveto
+1540 1300 lineto
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+702 1302 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.50 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1540 1300 moveto
+1540 1420 lineto
+stroke
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1540 1300 moveto
+2260 1300 lineto
+stroke
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2260 1300 moveto
+2260 1420 lineto
+stroke
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+580 1240 moveto
+2140 1240 lineto
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+582 1242 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.50 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2140 1240 moveto
+2140 1420 lineto
+stroke
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1420 1240 moveto
+1420 1420 lineto
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+1422 1242 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.50 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+580 1840 moveto
+580 1960 lineto
+stroke
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+700 1840 moveto
+700 1960 lineto
+stroke
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+820 1840 moveto
+820 1960 lineto
+stroke
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1420 1840 moveto
+1420 1960 lineto
+stroke
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1540 1840 moveto
+1540 1960 lineto
+stroke
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1660 1840 moveto
+1660 1960 lineto
+stroke
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2140 1840 moveto
+2140 1960 lineto
+stroke
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2260 1840 moveto
+2260 1960 lineto
+stroke
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2380 1840 moveto
+2380 1960 lineto
+stroke
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+580 2200 moveto
+580 2380 lineto
+stroke
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+580 820 moveto
+580 880 lineto
+stroke
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+700 820 moveto
+700 880 lineto
+stroke
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+820 820 moveto
+820 880 lineto
+stroke
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+700 2200 moveto
+700 2380 lineto
+stroke
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+820 2200 moveto
+820 2380 lineto
+stroke
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1420 2200 moveto
+1420 2380 lineto
+stroke
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1540 2200 moveto
+1540 2380 lineto
+stroke
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1660 2200 moveto
+1660 2380 lineto
+stroke
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2140 2200 moveto
+2140 2380 lineto
+stroke
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2260 2200 moveto
+2260 2380 lineto
+stroke
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2380 2200 moveto
+2380 2380 lineto
+stroke
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3580 640 moveto
+3760 640 lineto
+stroke
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3760 640 moveto
+3760 700 lineto
+stroke
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3760 700 moveto
+3760 760 lineto
+stroke
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3760 1000 moveto
+3760 1060 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+4060 700 moveto
+4060 1240 lineto
+stroke
+0.00 0.50 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+4000 1240 moveto
+4060 1240 lineto
+stroke
+0.00 0.00 1.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3880 700 moveto
+3880 1060 lineto
+stroke
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3760 1420 moveto
+3760 1480 lineto
+stroke
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3880 1420 moveto
+3880 1480 lineto
+stroke
+1.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3760 1720 moveto
+3760 1780 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+6700 1780 moveto
+6700 4240 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3880 1720 moveto
+3880 1780 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3880 1780 moveto
+6700 1780 lineto
+stroke
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+820 1180 moveto
+940 1180 lineto
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+822 1182 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.50 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+1.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3760 2020 moveto
+3760 2080 lineto
+stroke
+1.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3760 2920 moveto
+3760 3220 lineto
+stroke
+1.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3760 2320 moveto
+3760 2680 lineto
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 2502 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.50 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 2502 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.50 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 2502 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.50 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+0.00 0.00 1.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+5200 4240 moveto
+6700 4240 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3760 4240 moveto
+5200 4240 lineto
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 2502 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.50 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+0.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+4840 3880 moveto
+4840 3940 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+4840 3940 moveto
+5320 3940 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+5320 3880 moveto
+5320 3940 lineto
+stroke
+1.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+4840 3580 moveto
+4840 3640 lineto
+stroke
+1.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+4840 3580 moveto
+5320 3580 lineto
+stroke
+1.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+5320 3580 moveto
+5320 3640 lineto
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+5082 4242 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.50 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+5082 3942 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.50 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 2502 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.50 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+1.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+4840 2980 moveto
+4840 3040 lineto
+stroke
+1.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+4840 3040 moveto
+5320 3040 lineto
+stroke
+1.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+5320 2980 moveto
+5320 3040 lineto
+stroke
+1.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+5080 3040 moveto
+5080 3280 lineto
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+5082 3582 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.50 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+5082 3042 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.50 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+1.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+4840 2680 moveto
+4840 2740 lineto
+stroke
+1.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+4840 2680 moveto
+5320 2680 lineto
+stroke
+1.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+5320 2680 moveto
+5320 2740 lineto
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 2502 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.50 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+1.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+5080 2500 moveto
+5080 2680 lineto
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+5082 2682 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.50 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+5082 2502 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.50 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+1.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+6280 2500 moveto
+6280 2680 lineto
+stroke
+1.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3760 2500 moveto
+5080 2500 lineto
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 2502 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.50 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+1.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+5080 3160 moveto
+5620 3160 lineto
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+5082 3162 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.50 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+1.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+5620 2500 moveto
+5620 3160 lineto
+stroke
+1.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+6520 2680 moveto
+6520 2740 lineto
+stroke
+1.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+6280 2680 moveto
+6520 2680 lineto
+stroke
+1.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+6100 2680 moveto
+6280 2680 lineto
+stroke
+1.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+6040 2680 moveto
+6100 2680 lineto
+stroke
+1.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+6040 2680 moveto
+6040 2740 lineto
+stroke
+1.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+6520 2980 moveto
+6520 3040 lineto
+stroke
+1.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+6040 3040 moveto
+6520 3040 lineto
+stroke
+1.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+6040 2980 moveto
+6040 3040 lineto
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+6282 3042 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.50 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+6282 2682 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.50 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+1.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+5080 3520 moveto
+5080 3580 lineto
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+5082 3582 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.50 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+0.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+5080 3940 moveto
+5080 4240 lineto
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+5082 4242 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.50 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+5082 3942 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.50 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+6282 4242 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.50 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+1.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+5620 2500 moveto
+5860 2500 lineto
+stroke
+1.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+6100 2500 moveto
+6280 2500 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3520 3880 moveto
+3520 3940 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3520 3940 moveto
+4000 3940 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+4000 3880 moveto
+4000 3940 lineto
+stroke
+1.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3520 3580 moveto
+3520 3640 lineto
+stroke
+1.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3520 3580 moveto
+4000 3580 lineto
+stroke
+1.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+4000 3580 moveto
+4000 3640 lineto
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 3942 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.50 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 3582 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.50 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+1.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3760 3520 moveto
+3760 3580 lineto
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 3582 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.50 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 3942 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.50 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+0.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3760 3940 moveto
+3760 4240 lineto
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+3762 3942 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.50 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+1.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+3760 3220 moveto
+3760 3520 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+6280 3880 moveto
+6280 4180 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+6280 4180 moveto
+6280 4240 lineto
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+6282 4242 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.50 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+6282 3042 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.50 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+1.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+5860 2500 moveto
+6100 2500 lineto
+stroke
+1.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+6280 3100 moveto
+6280 3220 lineto
+stroke
+1.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+6280 3040 moveto
+6280 3100 lineto
+stroke
+%Ellipse
+0.50 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+newpath
+tmpmtrx currentmatrix pop
+6282 3042 translate
+28 28 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.50 0.00 0.00 setrgbcolor
+fill
+grestore
+stroke
+1.00 0.00 0.00 setrgbcolor
+6 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+6280 3460 moveto
+6280 3640 lineto
+stroke
+pgsave restore
+showpage
+%%Trailer
+%%Pages: 1
+%%EOF
